@@ -1,6 +1,6 @@
 # The Best FOSS Password Manager
 
-Ever felt scared of using a password manager because of how insecure it was? Never fear - the best password manager you've ever seen is here! And better yet, it's free and open source!
+Ever felt scared of using a password manager because of how insecure it was? Never fear - the best password manager you've ever seen is here! And better yet, it's free and open source! Screw you, Dashlane! 
 
 The Best FOSS Password Manager is now open to the whole wide world! Now *YOU* can keep all your private credentials safe on this public platform! :rocket:
 
@@ -22,4 +22,4 @@ Create an account by adding a csv file and add all your *very very real password
 - **Keep it simple**: does this need explanation?
 - **Defense in depth**: ...we'll get back to you on that one
 
-Best of all, it's the antithesis of the **Security by Obscurity** anti-pattern: rest assured, *nothing* will be obscured in *this* password manager!
+Best of all, it's the antithesis of the **Security by Obscurity** anti-pattern: rest assured, *nothing* will be kept hidden in *this* password manager!
